@@ -1,0 +1,11 @@
+Model Information:
+* title:	Vectorman - SEGA
+* source:	https://sketchfab.com/3d-models/vectorman-sega-82e60352e92d46608a6de07f8d6c7d62
+* author:	megajakerake (https://sketchfab.com/jacobq1004)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Vectorman - SEGA" (https://sketchfab.com/3d-models/vectorman-sega-82e60352e92d46608a6de07f8d6c7d62) by megajakerake (https://sketchfab.com/jacobq1004) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
